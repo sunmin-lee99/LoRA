@@ -19,7 +19,7 @@ accelerate config
 ```
 
 ### 3. Datasets
-[Dataset](https://huggingface.co/datasets/lambdalabs/pokemon-blip-captions)
+[Example Dataset](https://huggingface.co/datasets/lambdalabs/pokemon-blip-captions)
 
 ### 4. Download file
 ```
