@@ -21,5 +21,6 @@ pipe.to(device)
 # generate image
 prompt = "a drawing of a white rabbit"
 image = pipeline(prompt, num_inference_steps=30).images[0]
+
 # save image
 image.save("image.png")
