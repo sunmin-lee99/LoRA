@@ -26,19 +26,13 @@ accelerate config
 download train_lora.bash & inference.py
 ```
 
+```
 |- diffusers
-
-
 |  |- examples
-
-
 |  |  |- text_to_image
-
-
 |  |  |  |- train_lora.bash
-
-
 |  |  |  |- inference.py
+```
 
 ### 5. Train
 ```
